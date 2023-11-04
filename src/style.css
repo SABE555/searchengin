@@ -1,0 +1,54 @@
+ 
+.title {
+    font-size: 11rem !important;
+    font-family: Roboto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -100px;
+}
+Link{
+  text-decoration: none !important;;
+  outline:none !important;;
+  color:black !important;; 
+}
+.searchInput {
+    margin-top: -50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-control {
+    width: 50%;
+}
+
+.searchbutton {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+}
+
+.titleResult{
+    display:flex;
+        float: left;
+        padding-left: 20px;
+}
+
+.sameline{
+   
+}
+#searchtext{
+ align-items:center;
+  margin:auto;
+}
