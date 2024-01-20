@@ -52,3 +52,24 @@ footer {
  align-items:center;
   margin:auto;
 }
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background-color: lavender; 
+}
+
+.samelinefooter{
+    display: flex;
+    gap: 10px;
+    margin-left: 7px;
+}
+
+.headfooter{
+    margin-left: 7px;
+}
+
+.middle{
+    margin:auto;
+    width: 50%;
+}
